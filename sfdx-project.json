@@ -1,12 +1,20 @@
 {
   "packageDirectories": [
     {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "trade-bridge",
+      "versionDescription": "TradeBridge app meta data "
     }
   ],
   "name": "TradeBridge",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "63.0"
+  "sourceApiVersion": "63.0",
+  "packageAliases": {
+    "trade-bridge": "0HodL0000000wgjSAA",
+    "trade-bridge@0.1.0-1": "04tdL0000008tVZQAY"
+  }
 }

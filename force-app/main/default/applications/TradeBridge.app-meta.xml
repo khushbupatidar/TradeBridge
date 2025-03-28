@@ -14,7 +14,6 @@
     <navType>Standard</navType>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
-    <tabs>standard-Product2</tabs>
     <tabs>standard-Pricebook2</tabs>
     <tabs>Account_Category__c</tabs>
     <tabs>Product_Category__c</tabs>
